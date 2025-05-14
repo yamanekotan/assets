@@ -1,0 +1,11 @@
+{
+  "name": "ISHBEBE",
+  "symbol": "ISHBEBE",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Meme token combining Ishiba, PEPE, and BEBE. Born to eat riceballs.",
+  "website": "https://x.com/ISHBEBE",
+  "explorer": "https://etherscan.io/token/0xc47006e6721674b12c7f512c2971da9de89ca212",
+  "status": "active",
+  "id": "0xc47006e6721674b12c7f512c2971da9de89ca212"
+}
